@@ -17,11 +17,9 @@ def translate(w):
             return "We didnt understand your entry."
     else:
         return "The word doesnt exist .Please double check it"
-<<<<<<< HEAD
-=======
-         
+
 word = input("Enter word: ")
->>>>>>> 64929f021bbf4be7b9a287fac729caa2f637927a
+
 
 word = input("Enter word: ")
 
