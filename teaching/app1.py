@@ -6,7 +6,7 @@ def translate(w):
     if w in data:
         return data[w]
     else:
-        return "the word doesnt exist .Please double check ie"
+        return "The word doesnt exist .Please double check it"
          
 word = input("Enter word: ")
 
